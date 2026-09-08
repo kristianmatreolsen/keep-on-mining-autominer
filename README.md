@@ -1,12 +1,12 @@
 # Keep On Mining Autominer
 
-A small Windows automation tool for the browser game **Keep On Mining**. It moves the mouse around the mining board, clicks at a steady interval, dismisses the game's **KEEP ON MINING** prompt, and attempts to click the yellow confirmation button shown by occasional artifact popups.
+A small Windows automation tool for the game **Keep On Mining**. It moves the mouse around the mining board, clicks at a steady interval, dismisses the game's **KEEP ON MINING** prompt, and attempts to click the yellow confirmation button shown by occasional artifact popups.
 
 ## Requirements
 
 - Windows 10 or newer
-- The game open in a visible browser window
-- A display layout and game window similar to the layout used when this tool was configured
+- The game open in a visible window
+- A display layout and game window similar to a screensize of 1920x1080
 
 For running from Python:
 
